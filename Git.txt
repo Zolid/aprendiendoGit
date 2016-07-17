@@ -3,3 +3,5 @@ Hola estoy aprediendo git, usando codeacademy y los videotutoriales de CodigoFac
 Voy en el tutorial 5, donde se enseña GitHub.
 
 Ahora voy a aprender como pushear códigos.
+
+Como trabajar con Github, desde el repositorio local.
