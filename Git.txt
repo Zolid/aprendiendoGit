@@ -1,1 +1,3 @@
-Hola estoy aprediendo git, usando codeacademy y los videotutoriales de CodigoFacilito
+Hola estoy aprediendo git, usando codeacademy y los videotutoriales de CodigoFacilito.
+
+Voy en el tutorial 5, donde se enseña GitHub.
